@@ -9,6 +9,8 @@
 //* checks preconditions on several methods (add, get, set, remove) and
 //  throws exceptions if the indexes passed are out of range.
 
+// This is a test
+
 import java.util.*;   // for Arrays
 
 public class ArrayIntList {
