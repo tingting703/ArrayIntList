@@ -54,7 +54,7 @@ public class ArrayIntListTest {
      list.add(999);                                     
      list.add(17);                                                   
      list.add(86);
-     assertEquals(1, list.indexOf(42));
+     assertEquals(0, list.indexOf(42));
      assertEquals(5, list.indexOf(86));
      assertEquals(2, list.indexOf(17));         // not 4!
      assertEquals(-1, list.indexOf(5555555));   // not found in list
