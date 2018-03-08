@@ -9,7 +9,7 @@
 //* checks preconditions on several methods (add, get, set, remove) and
 //  throws exceptions if the indexes passed are out of range.
 
-
+//test git commit
 import java.util.*;   // for Arrays
 
 public class ArrayIntList {
